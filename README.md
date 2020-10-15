@@ -7,7 +7,7 @@
 
 * Contributing to [@wfp](https://github.com/wfp) Open Source Organisation.
 
-* Non-Tech time goes in to  BasketBall 🏏, Chess ♟️ , Food 🍜, Travel 🌏 ....
+* Non-Tech time goes in to  BasketBall 🏀, Chess ♟️ , Food 🍜, Travel 🌏 ....
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayimdomnic/)
