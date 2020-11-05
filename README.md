@@ -15,9 +15,18 @@
 [![Medium](https://img.shields.io/badge/medium-black.svg?style=for-the-badge&logo=medium)](https://medium.com/@ayimdomnic)
 [![Instagram](https://img.shields.io/badge/Instagram-gray.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/sirdom__/)
 
-[![Ayimdomnic's github stats](https://github-readme-stats.vercel.app/api?username=ayimdomnic&count_private=true&show_icons=true)](https://github.com/ayimdomnic/)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayimdomnic&layout=compact&count_private=true)](https://github.com/ayimdomnic/)
+[![Ayimdomnic's github stats](https://github-readme-stats.vercel.app/api?username=ayimdomnic&count_private=true&show_icons=true&theme=nightowl)](https://github.com/ayimdomnic/)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayimdomnic&layout=compact&count_private=true)](https://github.com/ayimdomnic/)
 
-### I work with
+### Currently Working With
+
+
 
 
 ### Currently Learning
+
+
+### Ask Me about 
+
+- Functional Programming
+- Python for Data Science
+- Acing The Tech Interview
