@@ -5,7 +5,7 @@
 ###### A Software Developer 🚀 with experience of building Mobile 📱 applications and REST API's🖥. I Figure out things, solve some problems, read documentation and errors correctly to build scalable, testable, efficient and maintainable products. 
 
 
-* Contributing to [@wfp](https://github.com/wfp) Open Source Organisation.
+* Contributing to [@SoundOfYourLove](https://github.com/SoundOfYourLove) Organisation.
 
 * Non-Tech time goes in to  BasketBall 🏀, Chess ♟️ , Food 🍜, Travel 🌏 ....
 
@@ -23,6 +23,10 @@
 
 
 ### Currently Learning
+
+- CSS for Javascript Developers
+- NextJs (How the Magic Happens)
+- Typescript for system Engineering 
 
 
 ### Ask Me about 
