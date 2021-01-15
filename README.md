@@ -34,3 +34,6 @@
 - Functional Programming
 - Python for Data Science
 - Acing The Tech Interview
+
+
+![Metrics](https://metrics.lecoq.io/ayimdomnic)
