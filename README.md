@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Odhiambo Dormnic 🧑‍💻.
 
-[![Repos Badge](https://badges.pufler.dev/repos/ayimdomnic)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/ayimdomnic/ayimdomnic)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/ayimdomnic)](https://badges.pufler.dev) [![Gists Badge](https://badges.pufler.dev/gists/ayimdomnic)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/yearly/ayimdomnic)](https://badges.pufler.dev)(https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/ayimdomnic)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/ayimdomnic/ayimdomnic)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/ayimdomnic)](https://badges.pufler.dev) [![Gists Badge](https://badges.pufler.dev/gists/ayimdomnic)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/yearly/ayimdomnic)]
 
 ###### Senior Software Engineer, with focus on DX and optimization. I am open to new ideas,challenges and people. Loving where I am headed
 
