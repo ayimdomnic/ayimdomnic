@@ -2,7 +2,7 @@
 
 [![Repos Badge](https://badges.pufler.dev/repos/ayimdomnic)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/ayimdomnic/ayimdomnic)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/ayimdomnic)](https://badges.pufler.dev) [![Gists Badge](https://badges.pufler.dev/gists/ayimdomnic)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/ayimdomnic)](https://badges.pufler.dev)
 
-###### A Software Developer 🚀 with experience of building Mobile 📱 applications and REST API's🖥. I Figure out things, solve some problems, read documentation and errors correctly to build scalable, testable, efficient and maintainable products. 
+###### Senior Software Engineer, with focus on DX and optimization. I am open to new ideas,challenges and people. Loving where I am headed
 
 
 * Contributing to [@PlusPlusMinus](https://github.com/PlusplusMinus) Organisation.
@@ -24,9 +24,9 @@
 
 ### Currently Learning
 
-- CSS for Javascript Developers
-- NextJs (How the Magic Happens)
-- Typescript for system Engineering 
+- Telemetry in Javascript
+- Business Process Managers
+- Tooling in typescript
 
 
 ### Ask Me about 
