@@ -8,6 +8,18 @@
 * Contributing to [@PlusPlusMinus](https://github.com/PlusplusMinus) Organisation.
 
 * Non-Tech time goes in to  BasketBall 🏀, Chess ♟️ , Food 🍜, Travel 🌏 ....
+*
+
+## Types
+
+```ts
+type Me = {
+  name: 'Dom' | 'Odhis' | 'Dormnic' | 'Ayim' | 'Odhiambo'
+  stack: 'rust' | 'ts' | 'node' | 'c++' | 'php' as string[]
+  interests: '♟ '| '🏀' | '🥘 '
+}
+
+```
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayimdomnic/)
@@ -18,8 +30,10 @@
 [![Ayimdomnic's github stats](https://github-readme-stats.vercel.app/api?username=ayimdomnic&count_private=true&show_icons=true&theme=radical)](https://github.com/ayimdomnic/) 
 
 ### Currently Working With
-
-
+- Rust
+- NestJs
+- Postgres
+- Gastby
 
 
 ### Currently Learning
