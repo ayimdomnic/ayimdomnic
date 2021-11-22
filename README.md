@@ -13,13 +13,13 @@
 ## Types
 
 ```ts
-type Action = (language: string, level: string, preference: string) => void
+type Action = (language: string, level: string, preference: string) => string
 
 type Me = {
   name: 'Dom' | 'Odhis' | 'Dormnic' | 'Ayim' | 'Odhiambo'
   stack: 'rust' | 'ts' | 'node' | 'c++' | 'php' as string[]
   interests: '♟ '| '🏀' | '🥘 ',
-  actions: Action(Me.stack, 'expert', 'Web Development ')
+  actions: Action(Me.stack, 'expert', 'Web Development/Web Tooling/Dx ')
 }
 
 
