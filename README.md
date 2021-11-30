@@ -33,6 +33,7 @@ type Me = {
 [![Instagram](https://img.shields.io/badge/Instagram-gray.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/sirdom__/)
 
 [![Ayimdomnic's github stats](https://github-readme-stats.vercel.app/api?username=ayimdomnic&count_private=true&show_icons=true&theme=radical)](https://github.com/ayimdomnic/) 
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ayimdomnic&layout=compact&langs_count=8&theme=algolia"/>
 
 ### Currently Working With
 - Rust
