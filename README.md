@@ -56,7 +56,5 @@ type Me = {
 
 
 ![Metrics](https://metrics.lecoq.io/ayimdomnic)
+![Languages Over The Last 7 Days](https://github-readme-stats.vercel.app/api/wakatime?username=ayimdomnic&layout=compact)
 
-<div align='center'>
-    <img src='https://github-readme-stats.vercel.app/api/wakatime?username=ayimdomnic&layout=compact' alt='Languages over last 7 days ' align='center' />
-</div>
