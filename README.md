@@ -5,8 +5,6 @@
 ###### Senior Software Engineer, with focus on DX and optimization. I am open to new ideas,challenges and people. Loving where I am headed
 
 
-* Contributing to [@PlusPlusMinus](https://github.com/PlusplusMinus) Organisation.
-
 * Non-Tech time goes in to  BasketBall 🏀, Chess ♟️ , Food 🍜, Travel 🌏 ....
 *
 
