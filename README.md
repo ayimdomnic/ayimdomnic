@@ -14,10 +14,8 @@ type Me = {
 
 ```
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayimdomnic/)
-[![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/ayim_codes)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayimdom/)
 [![Medium](https://img.shields.io/badge/medium-black.svg?style=for-the-badge&logo=medium)](https://medium.com/@ayimdomnic)
-[![Instagram](https://img.shields.io/badge/Instagram-gray.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/sirdom__/)
 
 [![Ayimdomnic's github stats](https://github-readme-stats.vercel.app/api?username=ayimdomnic&count_private=true&show_icons=true&theme=radical)](https://github.com/ayimdomnic/) 
 
