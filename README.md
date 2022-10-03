@@ -2,5 +2,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/36011535-cd90-4c56-a774-c7beb41a49c1.svg)](https://wakatime.com/@36011535-cd90-4c56-a774-c7beb41a49c1)
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31u2pelwxtemynis7aq7hsjphwui&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
 
 
