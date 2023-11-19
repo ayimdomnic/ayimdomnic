@@ -1,4 +1,4 @@
-![Snake animation](https://raw.githubusercontent.com/yonkokilasi/ayimdomnic/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/ayimdomnic/ayimdomnic/output/github-contribution-grid-snake.svg)
 # 😎 About Me:
 Experienced Backend Solutions Developer | Expert in Typescript, Golang, Rust, Ruby | Passionate about Building Software Solutions for Positive User Impact.
 With a robust background spanning seven years in mobile app development, I am a dedicated professional committed to designing and building software solutions that enhance user experiences and deliver positive outcomes. My expertise lies in Android and Flutter development, where I bring creativity and innovation to the forefront.
