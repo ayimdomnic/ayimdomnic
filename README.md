@@ -30,18 +30,17 @@ Let's connect to explore opportunities for leveraging my skills and experience i
 ![](https://raw.githubusercontent.com/Subhampreet/Subhampreet/master/media/header_.png)
 
 # 📊 GitHub Stats:
-![Yonko's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayimdomnic&show_icons=true&theme=radical)
-[![Yonko's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ayimdomnic)](https://github.com/Yonkokilasi/Yonkokilasi)
+![Ayimdomnic's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayimdomnic&show_icons=true&theme=radical)
 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ayimdomnic&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
-<!-- <img align="right" alt="Coding" width="120" top="0" src="./images/business-3d-young-man-standing-with-laptop.png"> -->
+
 
 ### ✍️ Favourite Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayimdomnic&" alt="Yonko" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayimdomnic&" alt="ayimdomnic" /></p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ayimdomnic&label=Profile%20Views&color=2&icon=1&pretty=true)](https://visitcount.itsvg.in)
