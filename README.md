@@ -28,7 +28,7 @@ Let's connect to explore opportunities for leveraging my skills and experience i
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/ayimdomnic/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yonkokilasi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ayimdomnic/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayimdomnic" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/8490117/ayimdomnic" target="blank"><img align="center" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" alt="@ayimdomnic"  height="100" width="120"  /></a>
 </p>
 
