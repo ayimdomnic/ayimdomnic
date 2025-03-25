@@ -67,8 +67,8 @@ Full-stack polyglot developer building robust financial systems and developer to
 ## 📫 Get in Touch
 
 - GitHub: [@ayimdomnic](https://github.com/ayimdomnic)
-- LinkedIn: [Your Profile]()
-- Twitter: [@YourHandle]()
+- LinkedIn: [Odhiambo Dormnic](https://linkedin.com/in/ayimdomnic)
+- Twitter: [@dadoos_](https://x.com/dadooos_)
 
 > "Simplicity is the ultimate sophistication" - Building elegant solutions across the stack
 
