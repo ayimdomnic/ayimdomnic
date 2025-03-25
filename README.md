@@ -2,45 +2,75 @@
 
 # 👋 Hi, I'm Odhiambo Dormnic
 
-Full-stack developer passionate about building scalable applications and contributing to open source.
+Full-stack polyglot developer building robust financial systems and developer tools.
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on containerizing graphQL databases
-- 💻 Tech enthusiast with expertise in TypeScript and Shell scripting
-- 🌱 Active contributor to the developer community
-- 📚 Building tools to make development workflows easier
+- 🔭 Currently architecting merchant onboarding systems with multi-language microservices
+- 💻 Passionate about TypeScript, Rust, and cloud-native development
+- 🌱 Deep diving into containerized GraphQL databases and financial APIs
+- 📚 Creating tools to streamline development workflows across tech stacks
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
+### Languages & Frameworks
+![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=dotnet&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
+
+### Databases & ORMs
+![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/ORM-Prisma-informational?style=flat&logo=prisma&logoColor=white&color=2bbc8a)
+
+### Frontend
+![](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+
+### DevOps
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
 ## 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ayimdomnic&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayimdomnic&layout=compact&theme=radical)
+
 ## 🔥 Featured Projects
 
-### [mac-dev-ready](https://github.com/ayimdomnic/mac-dev-ready)
-A script to make your mac ready to go - streamline your development environment setup
+### Financial Systems
+- **Merchant Onboarding Platform** (Rust/.NET/Next.js)
+  - Multi-currency wallet management
+  - KYC/KYB verification workflows
+  - Payment processing APIs
 
-### [docker-prisma](https://github.com/ayimdomnic/docker-prisma)
-Containerizing a graphQL database - making database deployment easier
+### Developer Tools
+- [docker-prisma](https://github.com/ayimdomnic/docker-prisma)  
+  Production-ready containerization for GraphQL databases
 
-### [kenyan-banks](https://github.com/ayimdomnic/kenyan-banks)
-Comprehensive list of banks in Kenya with codes and branches
+- [mac-dev-ready](https://github.com/ayimdomnic/mac-dev-ready)  
+  One-command macOS development environment setup
+
+### Open Data
+- [kenyan-banks](https://github.com/ayimdomnic/kenyan-banks)  
+  Comprehensive registry of Kenyan financial institutions
+
+## 🌟 Current Focus
+
+- Building scalable financial APIs with Rust and .NET
+- Implementing secure authentication across microservices
+- Optimizing PostgreSQL performance with Prisma
+- Developing Next.js admin dashboards with real-time analytics
 
 ## 📫 Get in Touch
 
 - GitHub: [@ayimdomnic](https://github.com/ayimdomnic)
-- Developer Program Member
+- LinkedIn: [Your Profile]()
+- Twitter: [@YourHandle]()
 
-## 📈 Activity
-
-> 1,935+ contributions in the last year
+> "Simplicity is the ultimate sophistication" - Building elegant solutions across the stack
 
 ---
 
