@@ -36,6 +36,9 @@ Full-stack polyglot developer building robust financial systems and developer to
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ayimdomnic&show_icons=true&theme=radical)
 
+[![committers.top badge](https://user-badge.committers.top/kenya/ayimdomnic.svg)](https://user-badge.committers.top/kenya/ayimdomic)
+
+
 ## 🔥 Featured Projects
 
 ### Financial Systems
