@@ -1,5 +1,3 @@
-![Snake animation](https://raw.githubusercontent.com/ayimdomnic/ayimdomnic/output/github-contribution-grid-snake.svg)
-
 # Odhiambo Dormnic
 
 Backend-leaning engineer. I build payment and identity-verification infrastructure day to day, and Rust tooling on the side.
@@ -8,7 +6,6 @@ Backend-leaning engineer. I build payment and identity-verification infrastructu
 
 - **[llmprism](https://github.com/ayimdomnic/llmprism)** -- a Rust port of PHP's [Prism](https://prismphp.com) library: one consistent, fluent API across 13 LLM providers (OpenAI, Anthropic, Gemini, and more) instead of a hand-rolled client per vendor. Published on [crates.io](https://crates.io/crates/llmprism).
 - **LindaPay** -- a Rust (Actix-web) and React payment processing platform for Kenya and East Africa: merchant onboarding, KYC, and payment orchestration across M-Pesa, KCB, and Airtel.
-- **Verify Group** -- a NestJS backend for multi-tenant identity verification, KYC, and claims management.
 
 ## Tech I actually use
 
