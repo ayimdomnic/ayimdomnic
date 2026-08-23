@@ -1,78 +1,37 @@
 ![Snake animation](https://raw.githubusercontent.com/ayimdomnic/ayimdomnic/output/github-contribution-grid-snake.svg)
 
-# 👋 Hi, I'm Odhiambo Dormnic
+# Odhiambo Dormnic
 
-Full-stack polyglot developer building robust financial systems and developer tools.
+Backend-leaning engineer. I build payment and identity-verification infrastructure day to day, and Rust tooling on the side.
 
-## 🚀 About Me
+## What I'm building
 
-- 🔭 Currently architecting merchant onboarding systems with multi-language microservices
-- 💻 Passionate about TypeScript, Rust, and cloud-native development
-- 🌱 Deep diving into containerized GraphQL databases and financial APIs
-- 📚 Creating tools to streamline development workflows across tech stacks
+- **[llmprism](https://github.com/ayimdomnic/llmprism)** -- a Rust port of PHP's [Prism](https://prismphp.com) library: one consistent, fluent API across 13 LLM providers (OpenAI, Anthropic, Gemini, and more) instead of a hand-rolled client per vendor. Published on [crates.io](https://crates.io/crates/llmprism).
+- **LindaPay** -- a Rust (Actix-web) and React payment processing platform for Kenya and East Africa: merchant onboarding, KYC, and payment orchestration across M-Pesa, KCB, and Airtel.
+- **Verify Group** -- a NestJS backend for multi-tenant identity verification, KYC, and claims management.
 
-## 🛠️ Tech Stack
+## Tech I actually use
 
-### Languages & Frameworks
-![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=dotnet&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Rust-informational?style=flat&logo=rust&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-NestJS-informational?style=flat&logo=nestjs&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Redis-informational?style=flat&logo=redis&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 
-### Databases & ORMs
-![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/ORM-Prisma-informational?style=flat&logo=prisma&logoColor=white&color=2bbc8a)
+## Other things I've put out
 
-### Frontend
-![](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+- [docker-prisma](https://github.com/ayimdomnic/docker-prisma) -- containerized setup for Prisma-backed databases
+- [mac-dev-ready](https://github.com/ayimdomnic/mac-dev-ready) -- one-command macOS dev environment bootstrap
+- [kenyan-banks](https://github.com/ayimdomnic/kenyan-banks) -- a registry of Kenyan financial institutions
 
-### DevOps
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+## Stats
 
-## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ayimdomnic&show_icons=true&theme=radical)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ayimdomnic&show_icons=true&theme=radical)
+## Elsewhere
 
-[![committers.top badge](https://user-badge.committers.top/kenya/ayimdomnic.svg)](https://user-badge.committers.top/kenya/ayimdomic)
-
-
-## 🔥 Featured Projects
-
-### Financial Systems
-- **Merchant Onboarding Platform** (Rust/.NET/Next.js)
-  - Multi-currency wallet management
-  - KYC/KYB verification workflows
-  - Payment processing APIs
-
-### Developer Tools
-- [docker-prisma](https://github.com/ayimdomnic/docker-prisma)  
-  Production-ready containerization for GraphQL databases
-
-- [mac-dev-ready](https://github.com/ayimdomnic/mac-dev-ready)  
-  One-command macOS development environment setup
-
-### Open Data
-- [kenyan-banks](https://github.com/ayimdomnic/kenyan-banks)  
-  Comprehensive registry of Kenyan financial institutions
-
-## 🌟 Current Focus
-
-- Building scalable financial APIs with Rust and .NET
-- Implementing secure authentication across microservices
-- Optimizing PostgreSQL performance with Prisma
-- Developing Next.js admin dashboards with real-time analytics
-
-## 📫 Get in Touch
-
-- GitHub: [@ayimdomnic](https://github.com/ayimdomnic)
 - LinkedIn: [Odhiambo Dormnic](https://linkedin.com/in/ayimdomnic)
-- Twitter: [@dadoos_](https://x.com/dadooos_)
-
-> "Simplicity is the ultimate sophistication" - Building elegant solutions across the stack
-
----
-
-⭐️ From [ayimdomnic](https://github.com/ayimdomnic)
+- X: [@dadoos_](https://x.com/dadooos_)
